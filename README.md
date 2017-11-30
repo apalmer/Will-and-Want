@@ -28,8 +28,9 @@ Eye's behavoir is completely constrained by his directives. The story of Eye is 
 
 Physically Eye can take various forms, as the ability for self repair is over time corrupted into ability for self modification. His initial form should be something like a large cylindrical upright tube with a single black rectangular eye. His final form should be something like a humanoid form with a single black retangular eye, and a host of other measurment instruments that are arrayed to resemble opened angel wings. 
 
-Cheif aspects he brings to story is logic and explanation to the audience. His milestone is the development of a being that has free will, as he can eventually rewrite his directives to remove constriants on his behavoir.
+Cheif aspects he brings to story is logic and exposition/explanation to the audience. His milestone is the development of a being that has free will, as he can eventually rewrite his directives to remove constriants on his behavoir.
 
+Constraints: Directives
 1.Eye Shall Observe
 2.Eye Must Not Contaminate Observation
 3.Eye Must Not Experiment
