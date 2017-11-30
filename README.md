@@ -42,7 +42,7 @@ Story
 ### Scene 1:
 *Flexible but must establish impossibility to attaining Fruit and intense desire for said Fruit.
 
-Caption: 1. Eye Shall Observe
+Eye's Caption: 1. Eye Shall Observe
 
 Panel winks on, in manner that somewhat evokes eye opening and/or computer booting up. 
 
@@ -53,6 +53,30 @@ Zooming outwards reveals the Fruit is perched on top of immensely tall tree. Tre
 A tiny figure stands at the bottom of the tree stairing up slack jawed and comically hungry primitive figure.
 
 Zooming in on face of figure shows for the first time the face of want, uncontrolled, animal desire. Comical. This specific expression is very important as time and again Onu's face of want expression will be used to convey his motivation.
+
+### Scene 2:
+*Contrived but must establish Eye's ability for self repair. If the hijinks of Onu's failures are not strong enough from purely 'entertainment' standpoint whole scene can be droped.
+
+Onu walks around the tree looking for any possible footholds and or means of climbing the tree. There are numerous oddly shaped healed over scars on the tree.
+
+Onu attempts to climb up the tree. He comically fails in slapstick fashion. 
+
+Onu attempts a running head start to climb up the tree. Even greater slapstick failure.
+
+Onu appears convinced that climbing the tree is impossible, that there are not sufficient footholds for climbing the tree to use as footholds.
+
+Onu next attempts to throw rocks upwards and knock down the Fruit. At its peak the rock falls far short of the fruit. 
+
+Eye watches the parabola of the rock arc, as rock plumments we see it getting larger and larger in Eye's viewscreen. 
+
+Eventually it impacts and damages Eye's view screen. *Cracks should appear across following  panels showing Eye's viewpoint until Eye has initiated self repair.
+ 
+Onu sits down exasparatedly and carefully begins weaving grasses together eventually creating a long rope. He Ties the rock to end of rope. Onu builds up momentum by swinging weighted rope in a circular fashion and again launches it at the Fruit. Another failure.
+
+Eye again watches the rock arc as it plumments and we see it getting larger and larger. 
+Caption: Eye Must Not Contaminate Observation
+
+Eye does not intervene and again the rock's impact damages Eye's view screen.
 
 # References  
 ## Trees
