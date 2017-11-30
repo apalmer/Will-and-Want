@@ -40,55 +40,38 @@ Story
 =====
 
 ### Scene 1:
+*Flexible but must establish impossibility to attaining Fruit and intense desire for said Fruit.
 
 Caption: 1. Eye Shall Observe
 
 Panel winks on, in manner that somewhat evokes eye opening and/or computer booting up. 
 
-Panel is is initially unfocused/unclear, as panel focuses organic object takes center stage. This is the Fruit. Important longterm as this is Onu's most consistent go to 'Want'. The object of his desire and cheif bribery tool. 
+Panel is is initially unfocused/unclear, as panel focuses an organic object takes center stage. This is the Fruit. Important longterm as this is Onu's most consistent go to 'Want'. The object of his desire and cheif bribery tool. 
 
-Zooming outwards reveals the Fruit is perched on top of immensely tall tree. Tree should be extremely alien and visually should appear difficult to climb. Weirder the better
+Zooming outwards reveals the Fruit is perched on top of immensely tall tree. Tree should be extremely alien and visually should appear difficult to climb. Weirder the better.
 
 A tiny figure stands at the bottom of the tree stairing up slack jawed and comically hungry primitive figure.
 
-Zooming in on face of figure shows for the first time the face of want, uncontrolled, animal desire. Comical. This specific expression is very important as time and again Onu's 'Wanting' expression will be used to convey his motivation.
+Zooming in on face of figure shows for the first time the face of want, uncontrolled, animal desire. Comical. This specific expression is very important as time and again Onu's face of want expression will be used to convey his motivation.
 
-*Flexible but must establish impossibility to attaining Fruit and intense desire for said Fruit.
 
 *References 
-Boab Tree: 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a8/Adansonia_grandidieri04.jpg "Boab Tree")
-Boab Tree: 
-![alt text](http://justfunfacts.com/wp-content/uploads/2017/06/baobab-trees.jpg "Boab Tree")
-Boab Tree: 
-![alt text](https://www.google.com/search?q=baobab+tree&safe=off&rlz=1C1GGRV_enUS771US771&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjv78ORqOXXAhVJ3SYKHW7oBpkQ_AUICigB&biw=1536&bih=736#imgrc=745VVU7zt5ZCvM: "Boab Tree")
-Boab Tree with Figures: 
-![alt text](http://cdn1.arkive.org/media/08/086520D1-AD0B-4109-A165-55E01B521506/Presentation.Large/Avenue-of-Grandidiers-baobab-trees.jpg "Boab Tree")
-Dragon Blood Tree: 
-![alt text](https://i.ytimg.com/vi/F9oB_5w_6B4/maxresdefault.jpg "Dragon Blood Tree")
-Dragon Blood Tree: 
-![alt text](http://www.johnlund.com/Images/Dragon-Blood-Eagle.jpg "Dragon Blood Tree")
-Dragon Blood Tree: 
-![alt text](http://lh6.googleusercontent.com/-elexauzO_ag/TgZjTwVstaI/AAAAAAABfgk/OgakA5ASV6M/s720/w4rtqwedfqwdqwdqw.jpg "Dragon Blood Tree")
-Twisted Tree: 
-![alt text](http://lh5.googleusercontent.com/-iIqxEg5cPTQ/TgZjRN0G9mI/AAAAAAABfgI/09i4XfiWTI0/s720/34t234efewrfewfwef.jpg "Twisted Tree")
-Tallest Palm Tree: 
-![alt text](http://i.imgur.com/cgJYLYG.jpg "Twisted Tree")
-Tallest Palm Tree: 
-![alt text](http://lh3.ggpht.com/-eKMpz4nYJLo/UefYLWhiO7I/AAAAAAAAqdE/ppy-_6aYEWA/cocora-valley-62.jpg?imgmax=800 "Twisted Tree")
-Palm Size Round Watermelon: 
-![alt text](https://previews.123rf.com/images/usersam2007/usersam20071209/usersam2007120900024/15173406-Single-sweet-watermelon-isolated-on-white-background-Stock-Photo.jpg "Strange Fruit")
-Sour Sop: 
-![alt text](https://listverse.com/wp-content/uploads/2011/07/screen-shot-2011-07-08-at-8-13-22-am.jpg "Strange Fruit")
-Mangosteen: 
-![alt text](https://i0.wp.com/www.thisblogrules.com/wp-content/uploads/2014/10/Purple-mangosteen.jpg "Strange Fruit")
-Rambutan: 
-![alt text](http://wdy.h-cdn.co/assets/cm/15/09/768x516/54ebb8037d877_-_10-rambutan-xl.jpg "Strange Fruit")
-Ackee Fruit: 
-![alt text](http://ghk.h-cdn.co/assets/15/32/1600x800/gallery-1438970989-weird-fruit.jpg "Strange Fruit")
-Horned Melon: 
-![alt text](http://www.blufftontoday.com/sites/blufftontoday.com/files/styles/flexslider_enhanced/public/13289396.jpg?itok=9NILTTS7 "Strange Fruit")
-Horned Melon: 
-![alt text](http://blog.fairwaymarket.com/content/uploads/2011/09/HornedMelon.jpg "Strange Fruit")
-Dragon Fruit: 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/71glW-5Mo%2BL._SX355_.jpg "Strange Fruit")
+Boab Tree: ![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a8/Adansonia_grandidieri04.jpg "Boab Tree")
+Boab Tree: ![alt text](http://justfunfacts.com/wp-content/uploads/2017/06/baobab-trees.jpg "Boab Tree")
+Boab Tree: ![alt text](https://www.google.com/search?q=baobab+tree&safe=off&rlz=1C1GGRV_enUS771US771&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjv78ORqOXXAhVJ3SYKHW7oBpkQ_AUICigB&biw=1536&bih=736#imgrc=745VVU7zt5ZCvM: "Boab Tree")
+Boab Tree with Figures: ![alt text](http://cdn1.arkive.org/media/08/086520D1-AD0B-4109-A165-55E01B521506/Presentation.Large/Avenue-of-Grandidiers-baobab-trees.jpg "Boab Tree")
+Round Boab Tree with Figures: ![alt text](http://cdn1.arkive.org/media/08/086520D1-AD0B-4109-A165-55E01B521506/Presentation.Large/Avenue-of-Grandidiers-baobab-trees.jpg "Boab Tree")
+Dragon Blood Tree: ![alt text](https://i.ytimg.com/vi/F9oB_5w_6B4/maxresdefault.jpg "Dragon Blood Tree")
+Dragon Blood Tree: ![alt text](http://www.johnlund.com/Images/Dragon-Blood-Eagle.jpg "Dragon Blood Tree")
+Dragon Blood Tree: ![alt text](http://lh6.googleusercontent.com/-elexauzO_ag/TgZjTwVstaI/AAAAAAABfgk/OgakA5ASV6M/s720/w4rtqwedfqwdqwdqw.jpg "Dragon Blood Tree")
+Twisted Tree: ![alt text](http://lh5.googleusercontent.com/-iIqxEg5cPTQ/TgZjRN0G9mI/AAAAAAABfgI/09i4XfiWTI0/s720/34t234efewrfewfwef.jpg "Twisted Tree")
+Tallest Palm Tree: ![alt text](http://i.imgur.com/cgJYLYG.jpg "Twisted Tree")
+Tallest Palm Tree: ![alt text](http://lh3.ggpht.com/-eKMpz4nYJLo/UefYLWhiO7I/AAAAAAAAqdE/ppy-_6aYEWA/cocora-valley-62.jpg?imgmax=800 "Twisted Tree")
+Palm Size Round Watermelon: ![alt text](https://previews.123rf.com/images/usersam2007/usersam20071209/usersam2007120900024/15173406-Single-sweet-watermelon-isolated-on-white-background-Stock-Photo.jpg "Strange Fruit")
+Sour Sop: ![alt text](https://listverse.com/wp-content/uploads/2011/07/screen-shot-2011-07-08-at-8-13-22-am.jpg "Strange Fruit")
+Mangosteen: ![alt text](https://i0.wp.com/www.thisblogrules.com/wp-content/uploads/2014/10/Purple-mangosteen.jpg "Strange Fruit")
+Rambutan: ![alt text](http://wdy.h-cdn.co/assets/cm/15/09/768x516/54ebb8037d877_-_10-rambutan-xl.jpg "Strange Fruit")
+Ackee Fruit: ![alt text](http://ghk.h-cdn.co/assets/15/32/1600x800/gallery-1438970989-weird-fruit.jpg "Strange Fruit")
+Horned Melon: ![alt text](http://www.blufftontoday.com/sites/blufftontoday.com/files/styles/flexslider_enhanced/public/13289396.jpg?itok=9NILTTS7 "Strange Fruit")
+Horned Melon: ![alt text](http://blog.fairwaymarket.com/content/uploads/2011/09/HornedMelon.jpg "Strange Fruit")
+Dragon Fruit: ![alt text](https://images-na.ssl-images-amazon.com/images/I/71glW-5Mo%2BL._SX355_.jpg "Strange Fruit")
