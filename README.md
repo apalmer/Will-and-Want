@@ -65,7 +65,7 @@ Onu attempts a running head start to climb up the tree. Even greater slapstick f
 
 Onu appears convinced that climbing the tree is impossible, that there are not sufficient footholds for climbing the tree to use as footholds.
 
-Onu next attempts to throw rocks upwards and knock down the Fruit. At its peak the rock falls far short of the fruit. 
+Onu next attempts to throw rocks upwards and knock down the Fruit. At it's peak the rock falls far short of the fruit. 
 
 Eye watches the parabola of the rock arc, as rock plumments we see it getting larger and larger in Eye's viewscreen. 
 
@@ -77,6 +77,21 @@ Eye again watches the rock arc as it plumments and we see it getting larger and 
 Caption: Eye Must Not Contaminate Observation
 
 Eye does not intervene and again the rock's impact damages Eye's view screen.
+
+Onu walks off turning his back on the Fruit tree. 
+
+Onu's path begins to lead him upwards and upwards becoming more onorous and difficult as it does.
+
+Eventually Onu reaches a cliff, walking over to the edge of the cliff he fearfully approaches the ledge.
+
+Onu's view from the ledge shows he is now above and relatively close to the Fruit bearing part of the Fruit tree.
+
+After some reflection and struggle with his own fear Onu takes a running leap off the edge. 
+
+Portrayal of Onu's midflight leap should empasize his passion/fear etc.
+
+Onu lands successful on the Fruit tree's crown. After some recovery and celebration of his success he makes his way to the Fruit.
+
 
 # References  
 ## Trees
