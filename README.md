@@ -50,6 +50,7 @@ Panel is is initially unfocused/unclear, as panel focuses an organic object take
 
 Zooming outwards reveals the Fruit is perched on top of immensely tall tree. Tree should be extremely alien and visually should appear difficult to climb. Weirder the better.
 
+[Pin Up]
 A tiny figure stands at the bottom of the tree stairing up slack jawed and comically hungry primitive figure.
 
 Zooming in on face of figure shows for the first time the face of want, uncontrolled, animal desire. Comical. This specific expression is very important as time and again Onu's face of want expression will be used to convey his motivation.
@@ -80,6 +81,7 @@ Eye does not intervene and again the rock's impact damages Eye's view screen.
 
 Onu walks off turning his back on the Fruit tree. 
 
+##Scene 3:
 Onu's path begins to lead him upwards and upwards becoming more onorous and difficult as it does.
 
 Eventually Onu reaches a cliff, walking over to the edge of the cliff he fearfully approaches the ledge.
@@ -88,10 +90,17 @@ Onu's view from the ledge shows he is now above and relatively close to the Frui
 
 After some reflection and struggle with his own fear Onu takes a running leap off the edge. 
 
+[Pin Up]
 Portrayal of Onu's midflight leap should empasize his passion/fear etc.
 
 Onu lands successful on the Fruit tree's crown. After some recovery and celebration of his success he makes his way to the Fruit.
 
+[Pin Up]
+Onu is shown with the Fruit relishing the moment and his victory
+
+Onu then carefully packs up a load of fruit, and reveals a wrapped up package concealed hanging from a rudimentary pulley hidden away in the branches of the tree. 
+
+He unwraps the package revealing several sharpish oval rock shards and binding straps. Onu attaches the rock shards with bindings to his hands and feet. He stands transformed by his rudimentary climbing gear. He loops a new rope through the pulley system and begins the long desent down the tree. As he descends the rope uncoiles above him. He swings away from the tree and jumps down .
 
 # References  
 ## Trees
